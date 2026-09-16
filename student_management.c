@@ -145,7 +145,7 @@ delete(&n,s);
 break;
 }
 }
-while(choice!=6)
+while(choice!=6);
 return 0;
 }
 
